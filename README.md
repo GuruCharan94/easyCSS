@@ -13,7 +13,7 @@ Frist you need to link it to you're page and you're done.
 ```
 
 # The class names
-The Sizes<br>
+# The Sizes<br>
 x1 = 1rem<br>
 x2 = 2rem<br>
 x3 = 3rem<br>
@@ -25,7 +25,7 @@ x8 = 8rem<br>
 x9 = 9rem<br>
 xXL = 10rem<br>
 
-Padding<br>
+# Padding<br>
 p-x1 = padding 1rem<br>
 p-x2 = padding 2rem<br>
 p-x3 = padding 3rem<br>
@@ -38,26 +38,26 @@ p-x9 = padding 9rem<br>
 p-xXL = padding 10rem<br>
 
 
-Padding right<br>
+# Padding right<br>
 p-r-x1 = 1rem<br>
 This part is really boring so if you want more padding you can just change the size from x1 size to 2,3,4,5,6,7,8,9,xXL size <br>
 
 
-Padding left<br>
+# Padding left<br>
 p-l-x1 = 1rem<br>
 This part is really boring so if you want more padding you can just change the size from x1 size to 2,3,4,5,6,7,8,9,xXL size <br>
 
 
-Padding top<br>
+# Padding top<br>
 p-t-x1 = 1rem<br>
 This part is really boring so if you want more padding you can just change the size from x1 size to 2,3,4,5,6,7,8,9,xXL size <br>
 
 
-Padding bottom<br>
+# Padding bottom<br>
 p-r-x1 = 1rem<br>
 This part is really boring so if you want more padding you can just change the size from x1 size to 2,3,4,5,6,7,8,9,xXL size <br>
 
-Margin <br>
+# Margin <br>
 m-x1 = 1rem<br>
 m-x2 = 2rem<br>
 m-x3 = 3rem<br>
@@ -69,68 +69,68 @@ m-x8 = 8rem<br>
 m-x9 = 9rem<br>
 m-xXL = 10rem<br>
 
-Margin left<br>
+# Margin left<br>
 m-l-x1 = 1rem<br>
 This part is really boring so if you want more margin you can just change the size from x1 size to 2,3,4,5,6,7,8,9,xXL size <br>
 
-Margin right<br>
+# Margin right<br>
 m-r-x1 = 1rem<br>
 This part is really boring so if you want more margin you can just change the size from x1 size to 2,3,4,5,6,7,8,9,xXL size <br>
 
-Margin top<br>
+# Margin top<br>
 m-t-x1 = 1rem<br>
 This part is really boring so if you want more margin you can just change the size from x1 size to 2,3,4,5,6,7,8,9,xXL size <br>
 
-Margin bottom<br>
+# Margin bottom<br>
 m-b-x1 = 1rem<br>
 This part is really boring so if you want more margin you can just change the size from x1 size to 2,3,4,5,6,7,8,9,xXL size <br>
 
-text-aligns<br>
+# text-aligns<br>
 center <br>
 right<br>
 left<br>
 justify<br>
 inherit<br>
 
-Header's<br>
+# Header's<br>
 .header<br>
 
-Nav links<br>
+# Nav links<br>
 .nav-link<br>
 
-Showcase's<br>
+# Showcase's<br>
 .showcase<br>
 
-Blocks<br>
+# Blocks<br>
 .block<br>
 
-About stuff<br>
+# About stuff<br>
 #main-block<br>
 #sidebar<br>
 
-backgrounds <br>
+# backgrounds <br>
 bg-primary<br>
 bg-green<br>
 bg-red<br>
 bg-blue<br>
 bg-yellow<br>
 
-color's<br>
+# color's<br>
 c-primary<br>
 c-green<br>
 c-red<br>
 c-blue<br>
 c-yellow<br>
 
-Footer<br>
+# Footer<br>
 .footer<br>
 
-<h3>Text Stuff</h3>
+# Text Stuff
 upper = uppercase<br>
 lower = lowercase<br>
 caps = caps<br>
 
-Fonts<br>
+# Fonts
 f-arial = arial<br>
 f-ht = Helvetica<br>
 f-ms = monospace<br>
@@ -204,7 +204,7 @@ btn-blue = This class is only allowed on the button tag-->
 <button class="btn-blue">this is a button</button>
 ```
 # Table's
-.table
+.table<br>
 .table-center
 ```html
 <table class="table">
