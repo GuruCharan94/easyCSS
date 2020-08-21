@@ -44,22 +44,55 @@ p-xXL = padding 10rem<br>
 
 # Padding right<br>
 p-r-x1 = 1rem<br>
-This part is really boring so if you want more padding you can just change the size from x1 size to 2,3,4,5,6,7,8,9,xXL size <br>
+p-r-x2 = 2rem<br>
+p-r-x3 = 3rem<br>
+p-r-x4 = 4rem<br>
+p-r-x5 = 5rem<br>
+p-r-x6 = 6rem<br>
+p-r-x7 = 7rem<br>
+p-r-x8 = 8rem<br>
+p-r-x9 = 9rem<br>
+p-r-xXL = 10rem<br>
 
 
 # Padding left<br>
 p-l-x1 = 1rem<br>
-This part is really boring so if you want more padding you can just change the size from x1 size to 2,3,4,5,6,7,8,9,xXL size <br>
+p-l-x2 = 2rem<br>
+p-l-x3 = 3rem<br>
+p-l-x4 = 4rem<br>
+p-l-x5 = 5rem<br>
+p-l-x6 = 6rem<br>
+p-l-x7 = 7rem<br>
+p-l-x8 = 8rem<br>
+p-l-x9 = 9rem<br>
+p-l-xXL = 10rem<br>
 
 
 # Padding top<br>
 p-t-x1 = 1rem<br>
-This part is really boring so if you want more padding you can just change the size from x1 size to 2,3,4,5,6,7,8,9,xXL size <br>
+p-t-x2 = 2rem<br>
+p-t-x3 = 3rem<br>
+p-t-x4 = 4rem<br>
+p-t-x5 = 5rem<br>
+p-t-x6 = 6rem<br>
+p-t-x7 = 7rem<br>
+p-t-x8 = 8rem<br>
+p-t-x9 = 9rem<br>
+p-t-xXL = 10rem<br>
 
 
 # Padding bottom<br>
-p-r-x1 = 1rem<br>
-This part is really boring so if you want more padding you can just change the size from x1 size to 2,3,4,5,6,7,8,9,xXL size <br>
+p-b-x1 = 1rem<br>
+p-b-x2 = 2rem<br>
+p-b-x3 = 3rem<br>
+p-b-x4 = 4rem<br>
+p-b-x5 = 5rem<br>
+p-b-x6 = 6rem<br>
+p-b-x7 = 7rem<br>
+p-b-x8 = 8rem<br>
+p-b-x9 = 9rem<br>
+p-b-xXL = 10rem<br>
+
 
 # Margin <br>
 m-x1 = 1rem<br>
@@ -75,19 +108,52 @@ m-xXL = 10rem<br>
 
 # Margin left<br>
 m-l-x1 = 1rem<br>
-This part is really boring so if you want more margin you can just change the size from x1 size to 2,3,4,5,6,7,8,9,xXL size <br>
+m-l-x2 = 2rem<br>
+m-l-x3 = 3rem<br>
+m-l-x4 = 4rem<br>
+m-l-x5 = 5rem<br>
+m-l-x6 = 6rem<br>
+m-l-x7 = 7rem<br>
+m-l-x8 = 8rem<br>
+m-l-x9 = 9rem<br>
+m-l-xXL = 10rem<br>
+
 
 # Margin right<br>
 m-r-x1 = 1rem<br>
-This part is really boring so if you want more margin you can just change the size from x1 size to 2,3,4,5,6,7,8,9,xXL size <br>
+m-r-x2 = 2rem<br>
+m-r-x3 = 3rem<br>
+m-r-x4 = 4rem<br>
+m-r-x5 = 5rem<br>
+m-r-x6 = 6rem<br>
+m-r-x7 = 7rem<br>
+m-r-x8 = 8rem<br>
+m-r-x9 = 9rem<br>
+m-r-xXL = 10rem<br>
 
 # Margin top<br>
 m-t-x1 = 1rem<br>
-This part is really boring so if you want more margin you can just change the size from x1 size to 2,3,4,5,6,7,8,9,xXL size <br>
+m-t-x2 = 2rem<br>
+m-t-x3 = 3rem<br>
+m-t-x4 = 4rem<br>
+m-t-x5 = 5rem<br>
+m-t-x6 = 6rem<br>
+m-t-x7 = 7rem<br>
+m-t-x8 = 8rem<br>
+m-t-x9 = 9rem<br>
+m-t-xXL = 10rem<br>
 
 # Margin bottom<br>
 m-b-x1 = 1rem<br>
-This part is really boring so if you want more margin you can just change the size from x1 size to 2,3,4,5,6,7,8,9,xXL size <br>
+m-b-x2 = 2rem<br>
+m-b-x3 = 3rem<br>
+m-b-x4 = 4rem<br>
+m-b-x5 = 5rem<br>
+m-b-x6 = 6rem<br>
+m-b-x7 = 7rem<br>
+m-b-x8 = 8rem<br>
+m-b-x9 = 9rem<br>
+m-b-xXL = 10rem<br>
 
 # text-aligns<br>
 center <br>
