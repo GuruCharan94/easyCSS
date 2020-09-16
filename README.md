@@ -1,20 +1,161 @@
-<img src="https://easycss.netlify.app/img/img-1.jpg">
-<img src="https://scontent.fprn7-1.fna.fbcdn.net/v/t1.0-9/118020169_180019540356408_161318312805277236_o.jpg?_nc_cat=110&_nc_sid=8024bb&_nc_ohc=wSpBxenVjy0AX_z-XSm&_nc_ht=scontent.fprn7-1.fna&oh=96c1b68d35d979151cb74749654a12ff&oe=5F656B3D">
 
+tan taram tarammam bam taram traram
 
-# easyCSS
-hello world
-```html
-<h1>i'm introducing to you the newest CSS framework made by a 9 year old.</h1>
-```
-This is the first version so it mide be bad,
-also this took me 1000 lines of CSS code.
-
+Welcome To easyCSS 2.0
+adding many new cool things! just go look!
+ 
 # How To Start
 Frist you need to link it to you're page and you're done. 
 ```html
  <link rel="stylesheet" href="http://easycss.netlify.app/easycss.css">
 ```
+
+# The New Class Names
+
+# Hover Effects
+```html
+<div class="block right hover-bg">
+        <h3>Example</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+        </p>
+    </div>
+
+<h1 class="hover-text-lg">example</h1>
+<h1 class="hover-text-md">example</h1>
+<h1 class="hover-text-sm">example</h1>
+
+<h1 class="hover">example</h1>
+```
+
+# header
+```html
+<div class="nheader-light">
+        <div class="content">
+            <div class="brand"><a href="#">easyCSS</a></div>
+        </div>
+        <div class="links">
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+        </div>
+    </div>
+```
+
+# bShow 
+```html
+<div class="bshow sh-5">
+    <div class="container">
+        <h1 class="hover-text-lg">bShow</h1>
+        <p>Lorem ipsum dolor sit amet consectetur<span class="badge badge-primary">7</span> adipisicing elit. Quaerat ex debitis aut at culpa a odit magni consequatur, autem, dolore, cupiditate perspiciatis vitae ratione pariatur accusamus in amet ut aperiam.</p>
+        <button class="btn-outline-light">Get Started</button>
+</div>
+</div>
+```
+
+# border
+.b-x1<br>
+.b-x2<br>
+.b-x3<br>
+.b-x4<br>
+.b-x5<br>
+.b-x6<br>
+.b-x7<br>
+.b-x8<br>
+.b-x9<br>
+.b-xXL<br>
+
+# border-left
+.b-l-x1<br>
+.b-l-x2<br>
+.b-l-x3<br>
+.b-l-x4<br>
+.b-l-x5<br>
+.b-l-x6<br>
+.b-l-x7<br>
+.b-l-x8<br>
+.b-l-x9<br>
+.b-l-xXL<br>
+
+# border-right
+.b-r-x1<br>
+.b-r-x2<br>
+.b-r-x3<br>
+.b-r-x4<br>
+.b-r-x5<br>
+.b-r-x6<br>
+.b-r-x7<br>
+.b-r-x8<br>
+.b-r-x9<br>
+.b-r-xXL<br>
+
+# border-top
+.b-t-x1<br>
+.b-t-x2<br>
+.b-t-x3<br>
+.b-t-x4<br>
+.b-t-x5<br>
+.b-t-x6<br>
+.b-t-x7<br>
+.b-t-x8<br>
+.b-t-x9<br>
+.b-t-xXL<br>
+
+# border-bottom
+.b-b-x1<br>
+.b-b-x2<br>
+.b-b-x3<br>
+.b-b-x4<br>
+.b-b-x5<br>
+.b-b-x6<br>
+.b-b-x7<br>
+.b-b-x8<br>
+.b-b-x9<br>
+.b-b-xXL<br>
+
+# tags
+```html
+<h1-red>blablabla</h1-red>
+<h1-green>blablabla</h1-green>
+<h1-yellow>blablabla</h1-yellow>
+<h1-blue>blablabla</h1-blue>
+<h1-primary>blablabla</h1-primary>
+```
+
+# blockquote
+
+```html
+<blockquote class="x2">
+    I'm a blockquote
+</blockquote> 
+```
+
+# breadcrumb
+
+```html
+<div class="breadcrumb">
+    <h4 class="bc-items"><span class="bc-item hover-text-md"><a href="#">why?</a></span> <span class="bc-slash">/</span> <span class="bc-item"><a href="#">contact</a></span> <span class="bc-slash">/</span> <span class="bc-act-item"><a href="#">about</a></span></h4>
+</div>
+```
+
+# Shadow System
+
+<ul>
+<li>Sh-0</li>
+<li>Sh-1</li>
+<li>Sh-1-half</li>
+<li>Sh-2</li>
+<li>Sh-3</li>
+<li>Sh-4</li>
+<li>Sh-5</li>
+</ul>
+
+# New Backgrounds
+<ul>
+<li>bg-dark</li>
+<li>bg-light</li>
+</ul>
+
 
 # The class names
 # The Sizes<br>
