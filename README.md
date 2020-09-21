@@ -40,6 +40,28 @@ Frist you need to link it to you're page and you're done.
             <a href="#">Contact</a>
         </div>
     </div>
+
+<div class="nheader-dark">
+        <div class="content">
+            <div class="brand"><a href="#">easyCSS</a></div>
+        </div>
+        <div class="links">
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+        </div>
+    </div>
+
+<div class="nheader">
+        <div class="content">
+            <div class="brand"><a href="#">easyCSS</a></div>
+        </div>
+        <div class="links">
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+        </div>
+    </div>
 ```
 
 # bShow 
@@ -156,6 +178,111 @@ Frist you need to link it to you're page and you're done.
 <li>bg-light</li>
 </ul>
 
+# Cards
+```html
+<div class="row">
+    <div class="col s12 m6">
+      <div class="card auto large darken-1">
+        <div class="card-content white-text">
+          <span class="card-title">Card Title</span>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem facilis aperiam, illum harum reprehenderit nemo, in maiores voluptates totam nulla id blanditiis possimus quos ratione necessitatibus quaerat odio quia obcaecati.</p>
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia eos soluta animi dolor nostrum, iusto fuga culpa odit illo quam asperiores nam. Atque magni cum asperiores, harum natus impedit nostrum.</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum dolorem aspernatur laborum doloremque accusamus labore, obcaecati similique repudiandae! Quos excepturi corrupti, explicabo culpa nobis ab! Cupiditate doloribus autem rem quasi.</p>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam quas veniam eligendi commodi possimus repellat tempore, optio vero odio corporis quae consequatur dolores hic maxime porro ducimus delectus error magni!</p>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam quas veniam eligendi commodi possimus repellat tempore, optio vero odio corporis quae consequatur dolores hic maxime porro ducimus delectus error magni!</p>
+        </div>
+        <div class="card-action">
+          <a href="#">This is a link</a>
+          <a href="#">This is a link</a>
+        </div>
+      </div>
+    </div>
+  </div>
+```
+# Some normal stuff
+.auto<br>
+.hide<br>
+
+# Some New Text stuff
+.c-light<br>
+.c-dark<br>
+.c-secondary<br>
+.grey-text<br>
+.white-text<br>
+.light<br>
+.thin<br>
+.auto<br>
+
+# Other
+.circle<br>
+.center-block<br>
+.btn-large<br>
+.btn-small<br>
+.c1<br>
+
+# Radio Buttons
+```html
+<form action="#">
+    <p>
+      <label>
+        <input name="group" type="radio" checked />
+        <span>Green</span>
+      </label>
+    </p>
+    <p>
+      <label>
+        <input name="group" type="radio" />
+        <span>Yellow</span>
+      </label>
+    </p>
+    <p>
+      <label>
+        <input class="with-gap" name="group" type="radio"  />
+        <span>Green</span>
+      </label>
+    </p>
+    <p>
+      <label>
+        <input name="group" type="radio" disabled="disabled" />
+        <span>disabled</span>
+      </label>
+    </p>
+  </form>
+```
+# Input Range
+```html
+<input type="range" name="" id="">
+```
+# Images
+.img-lg<br>
+.img-md<br>
+.img-sm<br>
+.img-circle<br>
+.img-half-circle<br>
+.img-flat<br>
+
+# Width
+.width-hs<br>
+.width-fs<br>
+.width-sm<br>
+
+# Border Radius
+.b-15<br>
+.b-20<br>
+.b-23<br>
+.b-25<br>
+.b-30<br>
+.b-35<br>
+.b-circle<br>
+.b-h-circle<br>
+
+# Font Weight
+.bold<br>
+.bolder<br>
+
+# Font Style
+.ob<br>
+.italic<br>
 
 # The class names
 # The Sizes<br>
