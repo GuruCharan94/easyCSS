@@ -284,7 +284,9 @@ Frist you need to link it to you're page and you're done.
 .ob<br>
 .italic<br>
 
-# The class names
+
+
+# The other class names
 # The Sizes<br>
 x1 = 1rem<br>
 x2 = 2rem<br>
