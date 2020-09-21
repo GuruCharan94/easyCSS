@@ -5,7 +5,7 @@ Welcome To easyCSS 2.0
 adding many new cool things! just go look!
  
 # How To Start
-Frist you need to link it to you're page and you're done. 
+First you need to link it to you're page and you're done. 
 ```html
  <link rel="stylesheet" href="http://easycss.netlify.app/easycss.css">
 ```
