@@ -284,7 +284,9 @@ Frist you need to link it to you're page and you're done.
 .ob<br>
 .italic<br>
 
-
+# Lists
+Wait where are the lists!<br>
+Ohh yea if you want the lists you need to go to the file called list.md thanks.
 
 # The other class names
 # The Sizes<br>
