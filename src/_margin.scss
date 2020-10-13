@@ -1,0 +1,12 @@
+@each $sizeId, $size in $sizes {
+  $sizeId: "x" + $sizeId;
+  .m-#{$sizeId} {
+    margin: $size;
+  }
+
+  @each $dirId, $direction in $directions {
+    .m-#{$dirId}-#{$sizeId} {
+      margin-#{$direction}: $size;
+    }
+  }
+}

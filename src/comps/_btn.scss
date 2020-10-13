@@ -1,0 +1,21 @@
+// These keys must match the `$colors` keys.
+$hoverColors: (
+  green: #2ea52ede,
+  red: #a32424de,
+  blue: #204cad,
+);
+
+@each $id, $color in $colors {
+  .btn-#{$id} {
+    background-color: $color;
+    border: none;
+    padding: 0.95rem;
+    color: #fff;
+    cursor: pointer;
+    transition: 350ms all ease-in;
+
+    &:hover {
+      background-color: map-get($hoverColors, $id);
+    }
+  }
+}

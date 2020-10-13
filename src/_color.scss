@@ -1,0 +1,5 @@
+@each $id, $color in $colors {
+  .c-#{$id} {
+    color: $color;
+  }
+}

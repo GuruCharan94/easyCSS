@@ -1,0 +1,42 @@
+// Loading that font
+@import "https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto:wght@700&display=swap";
+
+// Globals must be imported first!
+
+@import "globals/_colors";
+@import "globals/_directions";
+@import "globals/_sizes";
+
+// Keep these imports alphabetical for better organization!
+
+@import "./_background-color";
+
+@import "./_color";
+
+@import "./comps/_a";
+@import "./comps/_block";
+@import "./comps/_btn";
+@import "./comps/_checkmark";
+@import "./comps/_contact";
+@import "./comps/_footer";
+@import "./comps/_header";
+@import "./comps/_main-block";
+@import "./comps/_nav-link";
+@import "./comps/_selects";
+@import "./comps/_showcase";
+@import "./comps/_table";
+
+@import "./elements/_dark";
+@import "./elements/_html";
+
+@import "./font/_family";
+
+@import "./_margin";
+
+@import "./_padding";
+
+@import "./resets/_main";
+@import "./resets/_scrollbar";
+
+@import "./text/_align";
+@import "./text/_transform"; ;;

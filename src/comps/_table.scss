@@ -1,0 +1,36 @@
+.table {
+  width: 25rem;
+
+  &,
+  .head,
+  .data {
+    color: $primary;
+    border: 0.2rem solid $primary;
+    border-collapse: collapse;
+    text-align: center;
+  }
+
+  .head,
+  .data {
+    padding: 0.7rem;
+    transition: ease-in 350ms all;
+
+    &:hover {
+      background-color: $primary;
+      color: #fff;
+      padding: 1.25rem;
+    }
+  }
+}
+
+.table-center {
+  color: $primary;
+  border: 0.2rem solid $primary;
+  border-collapse: collapse;
+  margin: auto;
+  text-align: center;
+
+  .head {
+    padding: 0.7rem;
+  }
+}

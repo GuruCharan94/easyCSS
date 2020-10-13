@@ -1,0 +1,11 @@
+$transforms: (
+  upper: uppercase,
+  lower: lowercase,
+  caps: capitalize,
+);
+
+@each $identifier, $transform in $transforms {
+  .#{$identifier} {
+    text-transform: $transform;
+  }
+}

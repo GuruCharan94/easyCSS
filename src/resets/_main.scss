@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+body::selection {
+  font-family: sans-serif;
+  background-color: $primary;
+}
+
+@each $el in (h1, h2, h3, p, a, button) {
+  #{$el}::selection {
+    background-color: $primary;
+    color: #fff;
+  }
+}
+
+.h1 {
+  font-family: sans-serif;
+}

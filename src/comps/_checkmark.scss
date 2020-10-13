@@ -1,0 +1,16 @@
+.checkmark {
+  display: block;
+  height: 5rem;
+  width: 5rem;
+  background-color: #ddd;
+  border-radius: 0.625rem;
+
+  &:after {
+    content: "";
+    position: absolute;
+    width: 1.55rem;
+    height: 2.8rem;
+    border-right: 0.3rem solid #fff;
+    border-bottom: 0.3rem solid #fff;
+  }
+}

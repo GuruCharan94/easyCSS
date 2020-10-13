@@ -1,0 +1,12 @@
+@each $sizeId, $size in $sizes {
+  $sizeId: "x" + $sizeId;
+  .p-#{$sizeId} {
+    padding: $size;
+  }
+
+  @each $dirId, $direction in $directions {
+    .p-#{$dirId}-#{$sizeId} {
+      padding-#{$direction}: $size;
+    }
+  }
+}
