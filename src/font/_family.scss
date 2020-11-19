@@ -1,0 +1,17 @@
+$fonts: (
+  arial: Arial,
+  ht: Helvetica,
+  ms: monospace,
+  vd: Verdana,
+  fa: fantasy,
+  cs: cursive,
+  cn: "'Courier New', Courier, monospace",
+  roboto: "'Roboto', sans-serif",
+  su: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif",
+);
+
+@each $id, $font in $fonts {
+  .f-#{$id} {
+    font-family: $font;
+  }
+}

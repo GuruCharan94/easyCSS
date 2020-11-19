@@ -1,0 +1,13 @@
+.nav-link {
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+  padding-right: 0.75rem;
+  transition: all 1s ease;
+  padding: 0.5rem;
+
+  &:hover {
+    color: $primary;
+    background-color: #fff;
+  }
+}

@@ -1,0 +1,7 @@
+$aligns: center, right, left, justify, inherit;
+
+@each $align in $aligns {
+  .#{$align} {
+    text-align: #{$align};
+  }
+}

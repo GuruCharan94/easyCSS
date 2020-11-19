@@ -1,0 +1,17 @@
+{
+  "name": "easycss",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "directory": "src",
+    "url": "https://github.com/Johnson-Berisha/easyCSS"
+  },
+  "scripts": {
+    "dev": "dart-sass --watch src:public --no-source-map",
+    "build": "dart-sass src:dist --style=compressed --no-source-map"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "dart-sass": "^1.25.0"
+  }
+}

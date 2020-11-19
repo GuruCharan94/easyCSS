@@ -1,0 +1,6 @@
+@each $id, $color in $colors {
+  .a-#{$id} {
+    color: $color;
+    text-decoration: $color underline;
+  }
+}
