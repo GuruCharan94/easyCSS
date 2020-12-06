@@ -1,8 +1,10 @@
 
 tan taram tarammam bam taram traram
 
-Welcome To easyCSS 2.0
+Welcome To easyCSS 2.3
 adding many new cool things! just go look!
+ 
+ For the new stuff... Go to the official page!
  
 # How To Start
 First you need to link it to you're page and you're done. 
